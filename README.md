@@ -1,7 +1,8 @@
 ## Oi, eu sou o Mateus. 👋
 
-- 💻 Sou apaixonado por tecnologia desde criança, e desde então não saí da área, agora atuo como desenvolvedor.
-- ✨ Faço Ciência da Computação na Universidade Federal do Rio Grande do Sul
+- 💻 Lover of science, technology and programming.
+- ✨ Studying Computer Science at Federal University of Rio Grande do Sul
+- ®️ Studying Rust
 
 <div align="center">
   <a href="https://github.com/mncampos">
@@ -18,8 +19,8 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" />
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" />
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    
 </div>
