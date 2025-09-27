@@ -1,7 +1,7 @@
 ## Oi, eu sou o Mateus. 👋
 
 - 💻 Lover of science, technology and programming.
-- ✨ Studying Computer Science at Federal University of Rio Grande do Sul
+- ✨ Currently a QA Tester at Epic Games
 - ®️ Studying Rust
 
 <div align="center">
